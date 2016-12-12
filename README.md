@@ -1,2 +1,2 @@
-# Hangman-Game-
-Hangman game is built using Javascript while loop 
+# Hangman-Game-JS
+Hangman game is built using Javascript 
